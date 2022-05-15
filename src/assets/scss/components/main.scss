@@ -20,5 +20,13 @@
         li:not(:last-child) {
             margin-bottom: 0.5rem;
         }
+        li {
+            line-height: 1.8;
+        }
     }
+}
+
+.flexz {
+    display: flex;
+    justify-content: space-between;
 }
